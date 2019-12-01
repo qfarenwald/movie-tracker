@@ -75,6 +75,12 @@ Favorite Page
 
 - Links using React Router.
 
+
+### Project Board
+
+- GitHub Projects (https://github.com/dawnlunacy/movie-tracker/projects/1)
+
+
 ### Team
 
 - Lacy Rudd (https://github.com/dawnlunacy)
@@ -82,6 +88,7 @@ Favorite Page
 - Jeannie Evans (https://github.com/jmevans0211)
 
 - Quinne Farenwald (https://github.com/qfarenwald)
+
 
 ### Set Up
 
