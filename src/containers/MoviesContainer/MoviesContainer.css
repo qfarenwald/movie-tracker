@@ -1,4 +1,4 @@
-.scroll-wrapper {
+/* .scroll-wrapper {
     width: 579px;
     height: 100vw;
     transform: rotate(-90deg) translateX(-100vh);
@@ -7,14 +7,14 @@
     overflow-x: hidden;
     position: absolute;
     top: -15px;
-}
+} */
 
 .movies-container {
-    align-items: center;
-    display:flex;
-    justify-content: center;
+    /* align-items: center; */
+    display: flex;
     flex-direction: row;
-    width: fit-content;
-    transform: rotate(90deg) translateY(-105vh);
-    transform-origin: top left;
+    /* justify-content: center; */
+    /* width: fit-content; */
+    /* transform: rotate(90deg) translateY(-105vh); */
+    /* transform-origin: top left; */
 }
