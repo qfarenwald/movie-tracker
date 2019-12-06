@@ -61,11 +61,11 @@ export class App extends Component {
       return favorite.movie_id === movieId
     })
   }
-  
+
   render() {
     return (
         <div className="App">
-        <Route exact path='/login' render={ () => <LoginForm getFavorites={this.getFavorites}/>}/> 
+        <Route exact path='/login' render={ () => <LoginForm getFavorites={this.getFavorites}/>}/>
         <Route exact path='/signup' render={ () => <SignUpForm />}/>
         <Route exact path='/' render={ () =>
           <>
