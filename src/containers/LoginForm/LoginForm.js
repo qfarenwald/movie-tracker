@@ -44,7 +44,7 @@ export class LoginForm extends Component {
         if (!this.state.formReady) {
           this.setState({error: "Please fill out all inputs to log in."})
         } else {
-          const userVerification = await getUser(this.state.userInput, 'http://localhost:3001/api/v1/login');
+          const userVerification = await getUser(this.state.userInput, 'https://reel-movie-tracker.herokuapp.com/api/v1/login');
           this.validateResponse(userVerification)
         }
 

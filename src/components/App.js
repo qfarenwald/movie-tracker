@@ -32,7 +32,7 @@ export class App extends Component {
   }
 
   getFavorites = async (id) => {
-    const favoriteMovies = await fetchData(`http://localhost:3001/api/v1/users/${id}/moviefavorites`)
+    const favoriteMovies = await fetchData(`https://reel-movie-tracker.herokuapp.com/api/v1/users/${id}/moviefavorites`)
     return favoriteMovies
 }
 

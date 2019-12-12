@@ -45,7 +45,7 @@ export class SignUpForm extends Component {
         if (!this.state.formReady ) {
           this.setState({error: "Please fill out all inputs to create an account."})
         } else {
-          const createUser = await getUser(this.state.newUserInput, 'http://localhost:3001/api/v1/users')
+          const createUser = await getUser(this.state.newUserInput, 'https://reel-movie-tracker.herokuapp.com/api/v1/users')
           this.validateResponse(createUser)
         }
     }

@@ -30,7 +30,7 @@ export const postFavorite = async (movieInfo, id) => {
     }
   }
 
-  const response = await fetch(`http://localhost:3001/api/v1/users/${id}/moviefavorites`, options)
+  const response = await fetch(`https://reel-movie-tracker.herokuapp.com/api/v1/users/${id}/moviefavorites`, options)
   const data = await response.json();
     return data
 }
@@ -43,6 +43,6 @@ export const deleteFavorite = async (userId, movieId) => {
     }
   }
 
-  const response = await fetch(`http://localhost:3001/api/v1/users/${userId}/moviefavorites/${movieId}`, options);
+  const response = await fetch(`https://reel-movie-tracker.herokuapp.com/api/v1/users/${userId}/moviefavorites/${movieId}`, options);
     return response
 }
