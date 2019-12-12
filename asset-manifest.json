@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.47fcf637.chunk.css",
+    "main.css": "./static/css/main.4f2f3a96.chunk.css",
     "main.js": "./static/js/main.ec3ec32c.chunk.js",
     "main.js.map": "./static/js/main.ec3ec32c.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.df0b2151.js",
@@ -8,16 +8,16 @@
     "static/js/2.9513c7fa.chunk.js": "./static/js/2.9513c7fa.chunk.js",
     "static/js/2.9513c7fa.chunk.js.map": "./static/js/2.9513c7fa.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.ed04effc896819fa8e42e583c10d8dc7.js": "./precache-manifest.ed04effc896819fa8e42e583c10d8dc7.js",
+    "precache-manifest.056442c3ead802c883b3adbf223e5e14.js": "./precache-manifest.056442c3ead802c883b3adbf223e5e14.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.47fcf637.chunk.css.map": "./static/css/main.47fcf637.chunk.css.map",
+    "static/css/main.4f2f3a96.chunk.css.map": "./static/css/main.4f2f3a96.chunk.css.map",
     "static/media/MovieTracker_star.svg": "./static/media/MovieTracker_star.6757b8fe.svg",
     "static/media/MovieTracker_star_fav.svg": "./static/media/MovieTracker_star_fav.50697aa6.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.df0b2151.js",
     "static/js/2.9513c7fa.chunk.js",
-    "static/css/main.47fcf637.chunk.css",
+    "static/css/main.4f2f3a96.chunk.css",
     "static/js/main.ec3ec32c.chunk.js"
   ]
 }
