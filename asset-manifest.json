@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.9dc86d5f.chunk.css",
+    "main.css": "./static/css/main.47fcf637.chunk.css",
     "main.js": "./static/js/main.ec3ec32c.chunk.js",
     "main.js.map": "./static/js/main.ec3ec32c.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.df0b2151.js",
@@ -8,18 +8,16 @@
     "static/js/2.9513c7fa.chunk.js": "./static/js/2.9513c7fa.chunk.js",
     "static/js/2.9513c7fa.chunk.js.map": "./static/js/2.9513c7fa.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.8aa2fa2e057241e45c0a268da47b5d1d.js": "./precache-manifest.8aa2fa2e057241e45c0a268da47b5d1d.js",
+    "precache-manifest.ed04effc896819fa8e42e583c10d8dc7.js": "./precache-manifest.ed04effc896819fa8e42e583c10d8dc7.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.9dc86d5f.chunk.css.map": "./static/css/main.9dc86d5f.chunk.css.map",
+    "static/css/main.47fcf637.chunk.css.map": "./static/css/main.47fcf637.chunk.css.map",
     "static/media/MovieTracker_star.svg": "./static/media/MovieTracker_star.6757b8fe.svg",
-    "static/media/MovieTracker_star_fav.svg": "./static/media/MovieTracker_star_fav.50697aa6.svg",
-    "static/media/SignUpForm.css": "./static/media/background-curtain.9d6b0322.jpg",
-    "static/media/LoginForm.css": "./static/media/red-curtain-&-empty-theatre.00514d8f.jpg"
+    "static/media/MovieTracker_star_fav.svg": "./static/media/MovieTracker_star_fav.50697aa6.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.df0b2151.js",
     "static/js/2.9513c7fa.chunk.js",
-    "static/css/main.9dc86d5f.chunk.css",
+    "static/css/main.47fcf637.chunk.css",
     "static/js/main.ec3ec32c.chunk.js"
   ]
 }
