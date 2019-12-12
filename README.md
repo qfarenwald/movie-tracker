@@ -50,9 +50,17 @@ Sign Up Page
 
 ![Movie Tracker sign up error](src/images/MovieTracker_signup-error.png)
 
+- If the user tries to use an existing email, an error will appear saying the email is already taken.
+
+![Movie Tracker sign up error](src/images/MovieTracker_signup-error-2.png)
+
 - If the user already had an account, they can login.
 
 ![Movie Tracker Login](src/images/MovieTracker_login.png)
+
+- If the user does not fill out both inputs, an error will appear requiring users to fill out all inputs to log in.
+
+![Movie Tracker Login](src/images/MovieTracker_login-error.png)
 
 User Logged In Home Page
 - Now a user is welcomed and the favoriting functionality is enabled.
