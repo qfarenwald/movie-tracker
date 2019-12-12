@@ -3,7 +3,10 @@
   display: flex;
   justify-content: space-between;
   margin: 0 50px 0 50px;
-  width: 100%;
+  width: 80%;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+
 }
 
 .nav-p {
