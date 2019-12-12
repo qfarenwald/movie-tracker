@@ -4,7 +4,6 @@
   flex-direction: column;
   justify-content: center;
   height: 100%;
-  margin-top: 210px;
   transition: all .2s ease-in-out;
 }
 
@@ -16,7 +15,7 @@
   align-items: center;
   background-color: #FFFFFF;
   height: 375px;
-  margin: 40px 10px 0 10px;
+  margin: 0px 10px 0 10px;
   width: 250px;
 }
 
@@ -25,23 +24,26 @@
   background: #FFFFFF;
   display: flex;
   flex-direction: column;
-  height: 100px;
   margin: 0 10px 10px 10px;
   width: 250px;
 }
 
 .poster-img {
-  width: 100%;
+  height: 100%;
 }
 
 .movie-star {
   cursor: pointer;
   position: absolute;
-  margin-top: 158px;
+  margin-top: 138px;
   width: 50px;
 }
 
 .movie-h3 {
   color: #000000;
   padding: 20px;
+}
+
+a:link {
+  text-decoration: none;
 }
