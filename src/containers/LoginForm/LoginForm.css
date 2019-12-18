@@ -1,7 +1,6 @@
 .login-form {
     align-items: center;
     background-color: #161616;
-    /* background-image: url('../../images/red-curtain-&-empty-theatre.jpg'); */
     background-repeat: no-repeat;
     background-size: 100% 100%;
     display: flex;
@@ -14,7 +13,6 @@
 }
 
 .log-in-background {
-    /* background-color: rgba(0, 0, 0, 0.55); */
     border-radius: 15px;
 }
 
