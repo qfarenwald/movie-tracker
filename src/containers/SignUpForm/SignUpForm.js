@@ -57,7 +57,8 @@ export class SignUpForm extends Component {
           this.setState({error: "There was a problem with the server. Please try again"})
         }
         const error = await response.json()
-        if (error.error.detail.includes('email')) {
+        console.log('error', error)
+        if (error.detail.includes('email')) {
           this.setState({error: " That email is already taken " });
           this.resetEmailInput();
         }
